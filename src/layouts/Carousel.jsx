@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 import Card from './Card'
-import { projectsData, getTechIcon } from '../data/projectsData'
+import { projectsData} from '../data/projectsData'
 import { FaGithub } from 'react-icons/fa'
 import { FaRegArrowAltCircleLeft } from "react-icons/fa"
 import { FaRegArrowAltCircleRight } from "react-icons/fa"
